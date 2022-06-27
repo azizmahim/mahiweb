@@ -1,0 +1,113 @@
+<html>
+	<head>
+	 <title>Mahim Computer</title>
+	</head>
+	
+	<body bgcolor=" #00ffcc">
+		<br/>
+		<h3>
+		<img src="logo/logo-of-mahim.png" width="170px" alt="Mahim computer" title="Mahim"/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="arial" size="4">
+		<a href="">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="#">>PORTFOLIO<</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="ABOUT US page.html">ABOUT US</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="CREDITS page.html">CREDITS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<hr size="8" noshade />
+		</font>
+		</h3>
+		<br/><br/><br/><br/><br/><br/><br/>
+		<h1 align="center">
+		<font face="mistral" color="#ffffff" size="7">
+		<h1>COMPUTER ONLINE AND PRINTING STUFFS</h1>
+		</font>
+		</h1>
+		<h3 align="center">
+		<font face="Almagro" color=" #ff0000" size="5">
+		Aziz hossain propriter
+		</font>
+		</h3>
+		<h3 align="center">
+		<font face="AceBinghamSH" color="#ff9900" size="5">
+		USING ONLY HTML <br/>(NO CSS USED)
+		</font>
+		</h3>
+		
+		<br/>
+		
+		<marquee behavior="alternate" scrollamount="10"  bgcolor="#000099">
+		<dl>
+		<dt><font color="yellow">Our Online Service</font></dt>
+		
+		<font color="white">
+		<ul>
+		<li>compose</li>
+		<li>question paper type</li>
+		<li>scaning</li>
+		<li>E-mail</li>
+		<li>photocopy</li>
+		<li>color print</li>
+		<li>picture/image print</li>
+		<li>job application</li>
+		<li>school/college/university admission application</li>
+		</font>
+		<font color="yellow">
+		<li>school asignment</li>
+		</font>
+		<font color="white">
+		<li>online passport application fillup</li>
+		<li>E-Tin application submit</li>
+		</ul>
+		</font>
+		</marquee>
+		
+		<marquee behavior="alternate" scrollamount="10" bgcolor="black">
+		<dt><font color="yellow">Printing Service</font></dt>
+		<font color="white">
+		<ul>
+		<li>PVC Banner</li>
+		<li>solvent sticker</li>
+		<li>poster</li>
+		<li>liflet</li>
+		<li>visiting card</li>
+		<li>cash memo</li>
+		<li>chalan</li>
+		<li>pad</li>
+		<li>hand bill</li>
+		<li>invitation card</li>
+		<li>marrige ceremony card</li>
+		<li>sticker</li>
+		<li>id card</li>
+		<li>all kind of printing press service is available</li>
+		</ul>
+		</font>
+		</marquee>
+		
+		<marquee behavior="alternate" scrollamout="10" bgcolor="green">
+		<font face="dotum"size="7"color="white"><b>Logo Design</b></font>
+		</marquee>
+		
+		<h3 align="center">
+		<a href="#">
+		<font face="Albertus Medium" color="#6633ff">GET WORK</font>
+		</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="#">
+		<font face="Albertus Medium" color="#6633ff">SUBSCRIBE US</font>
+		</a>
+		</h3>
+		<hr size="8" color="#ff0000"/>
+		<hr size="8" color="#ff9900"/>
+		<hr size="8" color="#66cc00"/>
+		<hr size="8" color="#cc33cc"/>
+		<hr size="8" color="#cccc99"/>
+		<h3 align="center"><font color=" #666666"><font face="dotum">© Mahim Computer 2022</font></h3>
+	</body>
+</html>

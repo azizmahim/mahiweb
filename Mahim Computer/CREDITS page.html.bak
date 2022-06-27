@@ -1,0 +1,47 @@
+<html>
+	<head><title>credits</title></head>
+	<body>
+		
+		<br/>
+		<h3>
+		<img src="logo/logo-of-mahim.png" width="170px" alt="Mahim computer" title="Mahim"/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="arial" size="4">
+		<a href="HOMEpage.html">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="">>PORTFOLIO<</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="">ABOUT US</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="">/CREDITS\</a>&nbsp;&nbsp;&nbsp;&nbsp;
+		<hr size="8" noshade />
+		</font>
+		</h3>
+		
+		<h1 align="center">
+		<font face="dotum" color="" size="4">
+		Website Layout - <font color="#9933cc">"FULLY WEB TUTORIAL" </font>YOUTUBE CHANNEL</font>
+		<font>
+		</h1>
+		
+		<h1 align="center">
+		<font face="dotum" color="" size="4">
+		Modified/Edited by - <font color="#9933cc">"Logo designer" </font>Akram Hossen</font>
+		<font>
+		</h1>
+		
+		<h3 align="center">
+		<font face="AceBinghamSH" color="#ff9900" size="5">
+		USING ONLY HTML <br/>(NO CSS USED)
+		</font>
+		</h3>
+		
+		<hr/>
+	
+	</body>
+</html>

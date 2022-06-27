@@ -1,0 +1,58 @@
+			<html>
+			<body>
+			<h1 align="center"><font face="Albertus Medium" color=" #ff0000" size="5">About us</font></h1><br/><br/>
+			<h1 align="center"><font face="dotum">Shop owner/Mentor</font><br/>
+			<font face="Almagro" color=" #ff0000" size="5">
+			Aziz hossain (propriter)
+			</font></h1>
+						<img src="Shop owner Mentor/Aziz hossain_1.jpg" width="200">
+						<img src="Shop owner Mentor/Zcard.jpg" height="200">
+			
+			<h1 align="center"><b><font face="">Our Team</font></b></h1><br/>
+						<img src="our team/rubel.jpg" height="200" title="Rubel">
+						<img src="our team/SOHAG.jpg" height="200" title="Sohag">
+						<img src="our team/emran vai.jpg" height="200" title="Emran">
+			
+			<h1 align="center"><b><font face="">Our products</font></b></h1><br/>
+						<img src="our products/pd.jpg" height="566">
+						<img src="our products/pa.jpeg" height="200">
+						<img src="our products/pb.jpeg" height="200">
+						<img src="our products/ps.jpeg" height="200">
+						<img src="our products/pc.jpeg" height="200">
+						<img src="our products/pendrive.jpg" height="200">
+						<img src="our products/pendrive2.jpg" height="200">
+						<img src="our products/pendrive3.jpg" height="200">
+						<img src="our products/sandisc cruzer snap.png" height="200">
+						<img src="our products/8000_4g.jpg" height="200">
+						<img src="our products/6300_4g.jpg" height="200">
+						
+			<h1 align="center"><b><font face="">Shop images</font></b></h1><br/>
+						<img src="shop/si.jpg" height="200" alt="inside shop" title="inside mahim computer and printers">
+						<img src="shop/si2.jpg" height="200" alt="inside shop" title="outside mahim computer and printers">
+						<img src="shop/si3.jpg" height="200" alt="shop signboard" title="outside mahim computer and printers">
+						<img src="shop/p.jpg" height="200" alt="printed graphics" title="printed graphics">
+						<img src="shop/p2.jpg" height="200" alt="clock" title="clock">
+						<img src="shop/p3.jpg" height="200" alt="work station" title="work station">
+						<img src="shop/p4.jpg" height="200" alt="work station" title="work station">
+						<img src="shop/p5.jpg" height="200" alt="work station" title="work station">
+						
+			<h1 align="center"><b><font face="">Students</font></b></h1>
+						<img src="students/epti.jpg" height="200" title="Eftekhar">
+						
+			<h1 align="center"><b><font face="">landscape shots</font></b></h1>
+						<img src="website background/backgrond.jpeg" height="200" title="website background">
+						<img src="landscape shots/mini 1.jpeg" height="200" title="landscape">
+						<img src="landscape shots/mini 2.jpeg" height="200" title="landscape2">
+						<img src="landscape shots/mini 3.jpeg" height="200" title="landscape3">
+						<img src="website background/1.jpg" height="200" title="website background">
+						<img src="landscape shots/mini 4.jpeg" height="200" title="landscape4">
+						<img src="landscape shots/mini 5.jpeg" height="200" title="landscape5">
+						<img src="landscape shots/mini 6.jpeg" height="200" title="landscape6">
+			
+			<h1 align="center"><b><font face="">others</font></b></h1>
+						<img src="others/the batman.jpg" height="200">
+						<img src="others/Screenshot_3.jpg" height="200">
+			
+			<a href="Mahim Computer.html"><h2 align="center">back to home</h2></a>
+			</body>
+			</html>
